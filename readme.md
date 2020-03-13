@@ -1,6 +1,6 @@
 # Klox Back-end Node.js Developer Test
 
-This project contains a development environment and instructions for completing the back-end developer test for Klox Entertainment. Fork this repository and submit a link to your solution in Github.
+This project contains a development environment and instructions for completing the back-end developer test for Klox Entertainment. **Fork** this repository and **submit a link to your solution in Github**.
 
 ## Prerequisites
 * Node.js - https://nodejs.org/en/
@@ -9,7 +9,7 @@ This project contains a development environment and instructions for completing 
 
 ## Install Instructions
 1. Download and install the prerequisites
-2. Clone your github repository (**Do not try to push code this repository**)
+2. Clone your github repository (**Do not try to push code to this repository**)
 3. Use the command line to navigate to the project folder
 4. Run <code>npm install</code> to install some dependencies to kickstart the project (Koa with Apollo Server support).
 
