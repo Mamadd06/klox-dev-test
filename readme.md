@@ -12,7 +12,6 @@ This project contains a development environment and instructions for completing 
 2. Clone your github repository (**Do not try to push code this repository**)
 3. Use the command line to navigate to the project folder
 4. Run <code>npm install</code> to install some dependencies to kickstart the project (Koa with Apollo Server support).
-5. Run <code>npm start</code> to run the app.
 
 ## Exercise instructions
 The goal of this exercise is to build a small federation-ready GraphQL API.
@@ -23,7 +22,7 @@ API should allow to fetch, in a single query, capitals from localized countries 
 
 Expected JSON output from the final API, given a french locale and the Spain alpha code as parameters :
 
-<code>
+```json
 {
   "data": {
     "countries": [
@@ -43,7 +42,7 @@ Expected JSON output from the final API, given a french locale and the Spain alp
     ]
   }
 }
-</code>
+```
 
 You are free to add or remove dependencies as you see fit. The objective is to deliver the best code possible (nearest to a real work context).
 You are free to use any online resources or any tools you would use in any developer capacity.
