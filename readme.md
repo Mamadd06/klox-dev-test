@@ -13,6 +13,12 @@ This project contains a development environment and instructions for completing 
 3. Use the command line to navigate to the project folder
 4. Run <code>npm install</code> to install some dependencies to kickstart the project (Koa with Apollo Server support).
 
+## Launch Application
+1. Run <code>npm start</code> to start application
+
+## Launch unit tests
+1. Run <code>npm run test</code>
+
 ## Exercise instructions
 The goal of this exercise is to build a small federation-ready GraphQL API.
 You'll be using the RESTCountries REST API as your data source :
