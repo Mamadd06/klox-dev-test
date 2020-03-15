@@ -13,10 +13,10 @@ This project contains a development environment and instructions for completing 
 3. Use the command line to navigate to the project folder
 4. Run <code>npm install</code> to install some dependencies to kickstart the project (Koa with Apollo Server support).
 
-## Launch Application
+## Start Application
 1. Run <code>npm start</code> to start application
 
-## Launch unit tests
+## Start unit tests
 1. Run <code>npm run test</code>
 
 ## Exercise instructions
