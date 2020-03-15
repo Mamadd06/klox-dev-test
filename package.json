@@ -7,18 +7,12 @@
     "start": "nodemon server.js",
     "test": "jest"
   },
-  "author": "",
+  "author": "Mamadou NDIAYE",
   "license": "ISC",
   "dependencies": {
     "apollo-server-koa": "^2.11.0",
-    "graphql": "^14.5.8",
-    "graphql-tools": "^4.0.5",
-    "knex": "^0.19.4",
     "koa": "^2.8.2",
     "koa-bodyparser": "^4.2.1",
-    "koa-helmet": "^5.1.0",
-    "koa-router": "^7.4.0",
-    "pg": "^7.12.1",
     "axios": "^0.18.0",
     "lodash": "^4.17.15",
     "jest": "^24.9.0"
