@@ -1,0 +1,19 @@
+
+type Country {
+  name: String!
+  topLevelDomain: [String]
+  alpha2Code: String!
+  alpha3Code: String!
+  capital: String!
+  region: String
+  subregion: String
+  demonym: String
+  nativeName: String
+  numericCode: String
+  borders: [Country!]
+}
+
+
+type Query {
+  countries(alphaCode: String, local: String, first: Int,  offset: Int): [Country!]
+}
