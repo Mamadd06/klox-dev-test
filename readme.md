@@ -16,7 +16,9 @@ This project contains a development environment and instructions for completing 
 ## Start Application
 1. Run <code>npm start</code> to start application
 
-## Start unit tests
+NB: By default this endpoint returns the first 20 countries.
+
+## Run unit tests
 1. Run <code>npm run test</code>
 
 ## Exercise instructions
